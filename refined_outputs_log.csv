@@ -1,0 +1,11 @@
+Prompt_Variant,Input,Output
+Refined_Prompt_3,The product stopped working after 3 days and no one is responding to my emails.,"Simulated response for: 
+You are a complaint analysis assistant. Summarize the issue..."
+Refined_Prompt_3,I was charged twice for the same item and need a refund ASAP.,"Simulated response for: 
+You are a complaint analysis assistant. Summarize the issue..."
+Refined_Prompt_3,The delivery was late and the item was damaged.,"Simulated response for: 
+You are a complaint analysis assistant. Summarize the issue..."
+Refined_Prompt_3,Support promised a callback that never happened.,"Simulated response for: 
+You are a complaint analysis assistant. Summarize the issue..."
+Refined_Prompt_3,The website keeps crashing when I try to check out.,"Simulated response for: 
+You are a complaint analysis assistant. Summarize the issue..."

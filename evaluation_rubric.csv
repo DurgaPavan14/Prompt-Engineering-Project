@@ -1,0 +1,7 @@
+Prompt_Variant,Input,Output,Accuracy_or_Relevance,Structure_and_Tone,Task_Success_or_Failure,Comments
+Prompt_1,<sample_input>,<sample_output>,,,
+Prompt_2,<sample_input>,<sample_output>,,,
+Prompt_3,<sample_input>,<sample_output>,,,
+Prompt_4,<sample_input>,<sample_output>,,,
+Prompt_5,<sample_input>,<sample_output>,,,
+Refined_Prompt_3,<sample_input>,<sample_output>,,,

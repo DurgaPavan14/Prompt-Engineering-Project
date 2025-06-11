@@ -1,0 +1,21 @@
+{# Prompt 1: Instruction-first #}
+Summarize the key issue in the following customer complaint. Be concise and action-focused:
+{{ complaint }}
+
+{# Prompt 2: Role-based style #}
+You are a customer service analyst. Summarize this complaint for the operations team:
+{{ complaint }}
+
+{# Prompt 3: Format-constrained output #}
+Extract the issue and suggested action in this format:
+Issue: <...>  
+Action: <...>  
+Complaint: {{ complaint }}
+
+{# Prompt 4: Friendly assistant tone #}
+Hi! Help summarize this customer concern so the support team can fix it fast:
+{{ complaint }}
+
+{# Prompt 5: Emphasizing urgency #}
+Please urgently identify the primary issue in the customer complaint below and the action required.
+Complaint: {{ complaint }}
