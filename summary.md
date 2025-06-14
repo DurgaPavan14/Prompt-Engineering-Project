@@ -29,7 +29,7 @@ Each variant used the same set of test inputs and was scored using a rubric with
 - Structure/Tone
 - Task Success/Failure
   
-Top-Performing Prompt: Prompt 3
+Top-Performing Prompt: Prompt 3,
 Prompt 3 used a format-constrained structure:
 Extract the issue and suggested action in this format:
 Issue: <...>
