@@ -1,4 +1,4 @@
-1-Page Summary: Prompt Engineering Assignment
+Summary: Prompt Engineering Assignment
 
 Task Overview
 This project focuses on summarizing customer complaints into short, clear, and actionable summaries using large language model prompt engineering. The aim is to develop multiple structured prompt variants, evaluate their output performance, and refine the best-performing one to improve consistency and clarity.
